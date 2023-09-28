@@ -3,24 +3,32 @@ import React, { useState } from 'react';
 
 const quotes = [
   {
-    text: "BOINKE 1",
-    author: "BOINKIE"
+    text: "Sometimes you have to rethink the things you thought you thought though",
+    author: "Winnie the Pooh"
   },
   {
-    text: "BOINKE 2",
-    author: "BOINKIE"
+    text: "We'll be friends forever. Won't we Pooh?",
+    author: "Piglet"
   },
   {
-    text: "BOINKE 3",
-    author: "BOINKIE"
+    text: "It never hurts to keep looking for sunshine",
+    author: "Eeyore"
   },
   {
-    text: "BOINKE 4",
-    author: "BOINKIE"
+    text: "As soon as I saw you, I knew an adventure was going to happen",
+    author: "Winnie the Pooh"
   },
   {
-    text: "BOINKE 5",
-    author: "BOINKIE"
+    text: "Wait a minute!",
+    author: "Owl"
+  },
+  {
+    text: "The most wonderful thing about Tiggers is I'm the only one",
+    author: "Tigger"
+  },
+  {
+    text: "How about something nice, like a warm hug",
+    author: "Kanga"
   },
 ]
 
